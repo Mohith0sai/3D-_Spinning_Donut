@@ -10,6 +10,7 @@ Continuously updates the screen using ANSI escape codes for smooth animation.
 
 Requirements
 1.A C compiler (e.g., gcc)
+
 2.A terminal that supports ANSI escape sequences
 
 How to Compile and Run
