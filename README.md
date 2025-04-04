@@ -14,7 +14,7 @@ Requirements
 2.A terminal that supports ANSI escape sequences
 
 How to Compile and Run
-  gcc donut.c -o donut -lm
+  make
   ./donut
 
 Inspired by Andy Sloane’s ASCII Donut, rewritten with improvements for clarity and efficiency.
