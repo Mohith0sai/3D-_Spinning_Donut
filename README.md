@@ -17,6 +17,8 @@ Requirements:
 
 
 How to Compile and Run:
+
+Copy the donut.c & makefile files onto your interface and type the following commands to compile & run
  
   make
   
